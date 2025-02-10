@@ -9,9 +9,7 @@ ul,
 ol {
   list-style-type: none;
 }
-.container {
-  width: 1920px;
-}
+
 .navbar {
   border-bottom: #c4c4c4 solid 1px;
   position: absolute;
